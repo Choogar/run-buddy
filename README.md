@@ -13,4 +13,4 @@ https://tevinalvord.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Tevin Alvord
 
-### ©️2019 Run Buddy, Inc New text
+### ©️2019 Run Buddy, Inc
