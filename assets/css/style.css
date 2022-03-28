@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;
@@ -36,12 +42,6 @@ header nav ul li a {
   font-size: 22px;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 footer {
   background: #fce138;
   width: 100%;
@@ -76,6 +76,15 @@ section {
   background-position: center;
   position: relative;
 }
+
+/* .hero-text {
+  text-align:right;
+  position: absolute;
+}
+
+.hero-text h1 {
+ font-size: 40px;
+} */
 
 .hero-form {
   color:#024e76;
