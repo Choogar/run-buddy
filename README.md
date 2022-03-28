@@ -8,9 +8,9 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://tevinalvord.github.io/run-buddy/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Tevin Alvord
+Made with ❤️ by [your name]
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
