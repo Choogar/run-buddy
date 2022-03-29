@@ -529,6 +529,13 @@ section {
     }
   }
   
+  @media screen and (max-width: 650px) {
+      header nav ul li {
+        padding-bottom: 15px;
+      }
+  }
+
+
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
     .hero-form button {
